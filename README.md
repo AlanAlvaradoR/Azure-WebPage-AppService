@@ -105,19 +105,14 @@ Creación de Página Web con el servicio de App Service de Azure
 
 - Se abrirá una terminal negra en la parte inferior, allí debemos escribir cada uno de los siguientes comandos y presionar entre después de cada uno:
 
-
+```Bash
 git init
-
 git add .
-
 git commit -m "first commit"
-
 git branch -M main
-
 remote add origin <Aquí va tu link copiado anteriormente de github, por ejemplo: https://github.com/AlanAlvaradoR/Azure-WebPage-AppService.git>
-  
 git push -u origin main
-
+```
 
 - Ahora si volvemos a nuestra cuenta de github en el repositorio que creamos deberían aparecer los siguientes archivos
 
