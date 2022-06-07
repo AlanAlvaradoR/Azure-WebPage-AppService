@@ -63,7 +63,12 @@ Creación de Página Web con el servicio de App Service de Azure
 
 ![P6-11](https://github.com/AlanAlvaradoR/Azure-WebPage-AppService/blob/main/imagenes/P6-11.png)
 
-- Se abrirá una terminal de windows donde debemos escribir "git clone https://github.com/josejesusguzman/lab-subir-app-service-azure" y dar enter. Esto hará que se clone el proyecto de página web desde ese repositorio a nuestra carpeta.
+- Se abrirá una terminal de windows donde debemos escribir:
+
+```Bash
+git clone https://github.com/josejesusguzman/lab-subir-app-service-azure
+```
+ Esto hará que se clone el proyecto de página web desde ese repositorio a nuestra carpeta.
 
 ![P6-12](https://github.com/AlanAlvaradoR/Azure-WebPage-AppService/blob/main/imagenes/P6-12.PNG)
 
